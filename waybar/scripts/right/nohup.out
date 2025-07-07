@@ -1,0 +1,15 @@
+[2025-07-07 16:06:55.942] [info] Using configuration file /home/vodapad/.config/waybar/config.jsonc
+[2025-07-07 16:06:55.943] [info] Unable to receive desktop appearance: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Не существует интерфейса “org.freedesktop.portal.Settings” на объекте по пути /org/freedesktop/portal/desktop
+[2025-07-07 16:06:55.943] [info] Using CSS file /home/vodapad/.config/waybar/style.css
+[2025-07-07 16:06:55.946] [info] Hyprland IPC starting
+[2025-07-07 16:06:55.946] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-07-07 16:06:55.951] [warning] No batteries.
+Fontconfig warning: using without calling FcInit()
+[2025-07-07 16:06:55.970] [warning] Requested height: 34 is less than the minimum height: 42 required by the modules
+[2025-07-07 16:06:55.970] [info] Bar configured (width: 1920, height: 42) for output: DP-1
+
+** (waybar:12926): WARNING **: 16:06:55.972: Status Notifier Item with bus name ':1.32' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:12926): WARNING **: 16:06:57.031: Status Notifier Item with bus name ':1.32' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:12926): WARNING **: 16:08:29.588: Status Notifier Item with bus name ':1.32' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered

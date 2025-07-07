@@ -1,0 +1,265 @@
+[2025-07-07 02:13:43.127] [info] Using configuration file /home/vodapad/.config/waybar/config.jsonc
+[2025-07-07 02:13:43.128] [info] Unable to receive desktop appearance: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Не существует интерфейса “org.freedesktop.portal.Settings” на объекте по пути /org/freedesktop/portal/desktop
+[2025-07-07 02:13:43.128] [info] Using CSS file /home/vodapad/.config/waybar/style.css
+[2025-07-07 02:13:43.131] [info] Hyprland IPC starting
+[2025-07-07 02:13:43.132] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-07-07 02:13:43.136] [warning] No batteries.
+Fontconfig warning: using without calling FcInit()
+[2025-07-07 02:13:43.156] [warning] Requested height: 34 is less than the minimum height: 42 required by the modules
+[2025-07-07 02:13:43.156] [info] Bar configured (width: 1920, height: 42) for output: DP-1
+
+** (waybar:54754): WARNING **: 02:13:43.159: Status Notifier Item with bus name ':1.23' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:54754): WARNING **: 02:13:43.179: Status Notifier Item with bus name ':1.23' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:54754): WARNING **: 02:13:44.055: Status Notifier Item with bus name ':1.23' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[0,178] The output buffer does not support sRGB color encoding, colors will be incorrect.
+[0,191] [glfw error 65544]: process_desktop_settings: failed with error: org.freedesktop.DBus.Error.UnknownMethod: Не существует интерфейса “org.freedesktop.portal.Settings” на объекте по пути /org/freedesktop/portal/desktop
+[2025-07-07 02:18:10.166] [info] Using configuration file /home/vodapad/.config/waybar/config.jsonc
+[2025-07-07 02:18:10.167] [info] Unable to receive desktop appearance: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Не существует интерфейса “org.freedesktop.portal.Settings” на объекте по пути /org/freedesktop/portal/desktop
+[2025-07-07 02:18:10.167] [info] Using CSS file /home/vodapad/.config/waybar/style.css
+[2025-07-07 02:18:10.170] [info] Hyprland IPC starting
+[2025-07-07 02:18:10.171] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-07-07 02:18:10.174] [warning] No batteries.
+Fontconfig warning: using without calling FcInit()
+[2025-07-07 02:18:10.194] [warning] Requested height: 34 is less than the minimum height: 42 required by the modules
+[2025-07-07 02:18:10.194] [info] Bar configured (width: 1920, height: 42) for output: DP-1
+
+** (waybar:56180): WARNING **: 02:18:10.197: Status Notifier Item with bus name ':1.23' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:56180): WARNING **: 02:18:10.211: Status Notifier Item with bus name ':1.23' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:56180): WARNING **: 02:18:11.069: Status Notifier Item with bus name ':1.23' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2025-07-07 02:18:52.525] [info] Using configuration file /home/vodapad/.config/waybar/config.jsonc
+[2025-07-07 02:18:52.526] [info] Unable to receive desktop appearance: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Не существует интерфейса “org.freedesktop.portal.Settings” на объекте по пути /org/freedesktop/portal/desktop
+[2025-07-07 02:18:52.526] [info] Using CSS file /home/vodapad/.config/waybar/style.css
+[2025-07-07 02:18:52.530] [info] Hyprland IPC starting
+[2025-07-07 02:18:52.530] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-07-07 02:18:52.534] [warning] No batteries.
+[2025-07-07 02:18:52.559] [warning] Requested height: 34 is less than the minimum height: 42 required by the modules
+[2025-07-07 02:18:52.559] [info] Bar configured (width: 1920, height: 42) for output: DP-1
+
+** (waybar:56573): WARNING **: 02:18:52.561: Status Notifier Item with bus name ':1.23' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:56573): WARNING **: 02:18:52.586: Status Notifier Item with bus name ':1.23' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:56573): WARNING **: 02:18:54.061: Status Notifier Item with bus name ':1.23' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2025-07-07 02:20:13.969] [info] Using configuration file /home/vodapad/.config/waybar/config.jsonc
+[2025-07-07 02:20:13.970] [info] Unable to receive desktop appearance: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Не существует интерфейса “org.freedesktop.portal.Settings” на объекте по пути /org/freedesktop/portal/desktop
+[2025-07-07 02:20:13.970] [info] Using CSS file /home/vodapad/.config/waybar/style.css
+[2025-07-07 02:20:13.974] [info] Hyprland IPC starting
+[2025-07-07 02:20:13.974] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-07-07 02:20:13.977] [warning] No batteries.
+Fontconfig warning: using without calling FcInit()
+[2025-07-07 02:20:13.998] [warning] Requested height: 34 is less than the minimum height: 42 required by the modules
+[2025-07-07 02:20:13.998] [info] Bar configured (width: 1920, height: 42) for output: DP-1
+
+** (waybar:56878): WARNING **: 02:20:14.000: Status Notifier Item with bus name ':1.23' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:56878): WARNING **: 02:20:14.015: Status Notifier Item with bus name ':1.23' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:56878): WARNING **: 02:20:15.061: Status Notifier Item with bus name ':1.23' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[0,190] The output buffer does not support sRGB color encoding, colors will be incorrect.
+[0,201] [glfw error 65544]: process_desktop_settings: failed with error: org.freedesktop.DBus.Error.UnknownMethod: Не существует интерфейса “org.freedesktop.portal.Settings” на объекте по пути /org/freedesktop/portal/desktop
+
+** (waybar:56878): WARNING **: 02:21:12.554: Status Notifier Item with bus name ':1.23' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+sh: строка 1: /home/vodapad/.config/rofi/wifi/wifinew.sh: Нет такого файла или каталога
+[2025-07-07 02:25:28.627] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 77 not found
+[2025-07-07 02:25:28.628] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 79 not found
+[2025-07-07 02:25:28.639] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 77 not found
+[2025-07-07 02:25:28.643] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 77 not found
+[2025-07-07 02:25:28.643] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 77 not found
+[2025-07-07 02:25:28.656] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 79 not found
+[2025-07-07 02:25:28.659] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 79 not found
+[2025-07-07 02:30:09.541] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 99 not found
+[2025-07-07 02:30:09.541] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 154 not found
+[2025-07-07 02:30:09.541] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 90 not found
+[2025-07-07 02:30:09.541] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 92 not found
+[2025-07-07 02:30:09.541] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 83 not found
+[2025-07-07 02:30:09.541] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 93 not found
+[2025-07-07 02:30:09.541] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 88 not found
+[2025-07-07 02:30:09.543] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 82 not found
+[2025-07-07 02:30:09.543] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 148 not found
+
+(pavucontrol:57970): Gtk-CRITICAL **: 02:30:09.560: gtk_css_section_get_bytes: assertion 'section != NULL' failed
+
+(pavucontrol:57970): Gtk-CRITICAL **: 02:30:09.560: gtk_css_section_get_bytes: assertion 'section != NULL' failed
+[2025-07-07 02:30:09.567] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 99 not found
+[2025-07-07 02:30:09.583] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 99 not found
+[2025-07-07 02:30:09.584] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 154 not found
+[2025-07-07 02:30:09.587] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 154 not found
+[2025-07-07 02:30:09.589] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 90 not found
+[2025-07-07 02:30:09.771] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 90 not found
+[2025-07-07 02:30:09.772] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 92 not found
+[2025-07-07 02:30:09.779] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 92 not found
+[2025-07-07 02:30:09.780] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 83 not found
+[2025-07-07 02:30:09.800] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 83 not found
+[2025-07-07 02:30:09.802] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 93 not found
+[2025-07-07 02:30:09.804] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 93 not found
+[2025-07-07 02:30:09.806] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 88 not found
+[2025-07-07 02:30:09.808] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 88 not found
+[2025-07-07 02:30:09.811] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 82 not found
+[2025-07-07 02:30:09.814] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 82 not found
+[2025-07-07 02:30:09.815] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 148 not found
+[2025-07-07 02:30:09.817] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 148 not found
+[0,185] The output buffer does not support sRGB color encoding, colors will be incorrect.
+[0,197] [glfw error 65544]: process_desktop_settings: failed with error: org.freedesktop.DBus.Error.UnknownMethod: Не существует интерфейса “org.freedesktop.portal.Settings” на объекте по пути /org/freedesktop/portal/desktop
+[2025-07-07 02:49:20.084] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 145 not found
+[2025-07-07 02:49:20.092] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 145 not found
+[2025-07-07 02:49:20.097] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 145 not found
+[2025-07-07 02:49:21.795] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 112 not found
+[2025-07-07 02:49:21.802] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 112 not found
+[2025-07-07 02:49:21.804] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 112 not found
+[2025-07-07 02:49:21.805] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 121 not found
+[2025-07-07 02:49:21.814] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 121 not found
+[2025-07-07 02:49:21.818] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 121 not found
+
+** (waybar:56878): WARNING **: 02:53:35.206: Status Notifier Item with bus name ':1.23' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2025-07-07 03:10:47.087] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 162 not found
+[2025-07-07 03:10:47.095] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 162 not found
+[2025-07-07 03:10:47.098] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 162 not found
+[2025-07-07 03:11:00.363] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 162 not found
+[2025-07-07 03:11:00.371] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 162 not found
+[2025-07-07 03:11:00.375] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 162 not found
+[2025-07-07 03:21:39.696] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 162 not found
+[2025-07-07 03:21:39.705] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 162 not found
+[2025-07-07 03:21:39.709] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 162 not found
+[2025-07-07 03:24:10.003] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 162 not found
+[2025-07-07 03:24:10.011] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 162 not found
+[2025-07-07 03:24:10.013] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 162 not found
+[2025-07-07 03:27:41.512] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 162 not found
+[2025-07-07 03:27:41.520] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 162 not found
+[2025-07-07 03:27:41.523] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 162 not found
+[2025-07-07 03:28:53.776] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 162 not found
+[2025-07-07 03:28:53.785] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 162 not found
+[2025-07-07 03:28:53.789] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 162 not found
+[2025-07-07 03:30:13.062] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 162 not found
+[2025-07-07 03:30:13.071] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 162 not found
+[2025-07-07 03:30:13.074] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 162 not found
+[2025-07-07 03:31:28.978] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 162 not found
+[2025-07-07 03:31:28.988] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 162 not found
+[2025-07-07 03:31:28.992] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 162 not found
+[2025-07-07 03:31:57.970] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 114 not found
+[2025-07-07 03:31:57.977] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 114 not found
+[2025-07-07 03:31:57.980] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 114 not found
+[2025-07-07 03:31:59.283] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 139 not found
+[2025-07-07 03:31:59.290] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 139 not found
+[2025-07-07 03:31:59.292] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 139 not found
+[2025-07-07 03:31:59.294] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 124 not found
+[2025-07-07 03:31:59.301] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 124 not found
+[2025-07-07 03:31:59.304] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 124 not found
+[2025-07-07 03:32:34.131] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 114 not found
+[2025-07-07 03:32:34.143] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 114 not found
+[2025-07-07 03:32:34.147] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 114 not found
+[2025-07-07 03:33:21.050] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 114 not found
+[2025-07-07 03:33:21.058] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 114 not found
+[2025-07-07 03:33:21.060] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 114 not found
+[2025-07-07 03:33:28.521] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 114 not found
+[2025-07-07 03:33:28.529] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 114 not found
+[2025-07-07 03:33:28.532] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 114 not found
+[2025-07-07 03:33:31.995] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 139 not found
+[2025-07-07 03:33:32.002] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 139 not found
+[2025-07-07 03:33:32.005] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 139 not found
+[2025-07-07 03:33:32.006] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 124 not found
+[2025-07-07 03:33:32.016] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 124 not found
+[2025-07-07 03:33:32.019] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 124 not found
+[2025-07-07 03:34:02.805] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 114 not found
+[2025-07-07 03:34:02.813] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 114 not found
+[2025-07-07 03:34:02.816] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 114 not found
+
+** (waybar:56878): WARNING **: 03:43:50.268: Status Notifier Item with bus name ':1.23' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2025-07-07 03:48:23.661] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 145 not found
+[2025-07-07 03:48:23.674] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 145 not found
+[2025-07-07 03:48:23.678] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 145 not found
+[2025-07-07 03:51:17.814] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 145 not found
+[2025-07-07 03:51:17.822] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 145 not found
+[2025-07-07 03:51:17.825] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 145 not found
+[2025-07-07 03:51:21.846] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 139 not found
+[2025-07-07 03:51:21.855] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 139 not found
+[2025-07-07 03:51:21.858] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 139 not found
+[2025-07-07 03:52:16.594] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 145 not found
+[2025-07-07 03:52:16.601] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 145 not found
+[2025-07-07 03:52:16.604] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 145 not found
+[2025-07-07 03:54:08.206] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 145 not found
+[2025-07-07 03:54:08.215] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 145 not found
+[2025-07-07 03:54:08.219] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 145 not found
+
+** (waybar:56878): WARNING **: 03:58:55.378: Status Notifier Item with bus name ':1.23' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2025-07-07 03:59:07.669] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 114 not found
+[2025-07-07 03:59:07.677] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 114 not found
+[2025-07-07 03:59:07.679] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 114 not found
+[2025-07-07 03:59:10.779] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 114 not found
+[2025-07-07 03:59:10.806] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 114 not found
+[2025-07-07 03:59:10.822] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 114 not found
+[2025-07-07 03:59:23.182] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 149 not found
+[2025-07-07 03:59:23.191] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 149 not found
+[2025-07-07 03:59:23.193] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 149 not found
+[2025-07-07 03:59:25.596] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 114 not found
+[2025-07-07 03:59:25.612] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 114 not found
+[2025-07-07 03:59:25.613] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 114 not found
+[2025-07-07 03:59:28.094] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 114 not found
+[2025-07-07 03:59:28.110] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 114 not found
+[2025-07-07 03:59:28.111] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 114 not found
+[2025-07-07 03:59:30.534] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 114 not found
+[2025-07-07 03:59:30.548] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 114 not found
+[2025-07-07 03:59:30.549] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 114 not found
+[2025-07-07 04:19:04.340] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 147 not found
+[2025-07-07 04:19:04.357] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 147 not found
+[2025-07-07 04:19:04.364] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 147 not found
+[2025-07-07 04:19:12.761] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 147 not found
+[2025-07-07 04:19:12.778] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 147 not found
+[2025-07-07 04:19:12.783] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 147 not found
+[2025-07-07 04:19:52.619] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 147 not found
+[2025-07-07 04:19:52.632] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 147 not found
+[2025-07-07 04:19:52.635] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 147 not found
+[0,193] The output buffer does not support sRGB color encoding, colors will be incorrect.
+[0,208] [glfw error 65544]: process_desktop_settings: failed with error: org.freedesktop.DBus.Error.UnknownMethod: Не существует интерфейса “org.freedesktop.portal.Settings” на объекте по пути /org/freedesktop/portal/desktop
+[2025-07-07 04:46:00.085] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 114 not found
+[2025-07-07 04:46:00.092] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 114 not found
+[2025-07-07 04:46:00.093] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 114 not found
+[2025-07-07 04:46:04.566] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 114 not found
+[2025-07-07 04:46:04.577] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 114 not found
+[2025-07-07 04:46:04.579] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 114 not found
+[2025-07-07 04:47:06.948] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 149 not found
+[2025-07-07 04:47:06.960] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 149 not found
+[2025-07-07 04:47:06.966] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 149 not found
+[2025-07-07 04:47:46.542] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 149 not found
+[2025-07-07 04:47:46.550] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 149 not found
+[2025-07-07 04:47:46.551] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 149 not found
+[2025-07-07 04:49:21.746] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 147 not found
+[2025-07-07 04:49:21.761] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 147 not found
+[2025-07-07 04:49:21.766] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 147 not found
+[2025-07-07 04:57:52.866] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 117 not found
+[2025-07-07 04:57:52.875] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 117 not found
+[2025-07-07 04:57:52.879] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 117 not found
+[2025-07-07 04:58:02.482] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 106 not found
+[2025-07-07 04:58:02.488] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 106 not found
+[2025-07-07 04:58:02.492] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 106 not found
+[0,251] The output buffer does not support sRGB color encoding, colors will be incorrect.
+[0,262] [glfw error 65544]: process_desktop_settings: failed with error: org.freedesktop.DBus.Error.UnknownMethod: Не существует интерфейса “org.freedesktop.portal.Settings” на объекте по пути /org/freedesktop/portal/desktop
+[2025-07-07 04:59:09.287] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 106 not found
+[2025-07-07 04:59:09.293] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 106 not found
+[2025-07-07 04:59:09.296] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 106 not found
+[2025-07-07 04:59:09.297] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 106 not found
+[2025-07-07 04:59:09.306] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 106 not found
+[2025-07-07 04:59:09.309] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 106 not found
+[2025-07-07 04:59:36.754] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 106 not found
+[2025-07-07 04:59:36.759] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 106 not found
+[2025-07-07 04:59:36.762] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 106 not found
+[2025-07-07 04:59:36.763] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 106 not found
+[2025-07-07 04:59:36.772] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 106 not found
+[2025-07-07 04:59:36.776] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 106 not found
+[2025-07-07 04:59:52.648] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 106 not found
+[2025-07-07 04:59:52.654] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 106 not found
+[2025-07-07 04:59:52.656] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 106 not found
+[2025-07-07 04:59:52.658] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 106 not found
+[2025-07-07 04:59:52.667] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 106 not found
+[2025-07-07 04:59:52.670] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 106 not found
+[2025-07-07 04:59:58.208] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 106 not found
+[2025-07-07 04:59:58.214] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 106 not found
+[2025-07-07 04:59:58.218] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 106 not found
+[2025-07-07 04:59:58.219] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 106 not found
+[2025-07-07 04:59:58.228] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 106 not found
+[2025-07-07 04:59:58.238] [warning] [wireplumber]: (onMixerChanged: Audio/Sink) - Object with id 106 not found
+Gdk-Message: 05:00:32.126: Error reading events from display: Соединение разорвано другой стороной
+[1258,160] [glfw error 65544]: Wayland: fatal display error: Обрыв канала
