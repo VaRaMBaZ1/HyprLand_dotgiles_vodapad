@@ -5,7 +5,7 @@ uptime="$(uptime -p | sed -e 's/up //g')"
 host=$(hostname)
 
 # Опции
-shutdown=' Shutdown'
+shutdown='🚪 Shutdown'
 reboot=' Reboot'
 logout='󰍃 Logout'
 yes='Yes'

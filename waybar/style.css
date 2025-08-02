@@ -113,13 +113,13 @@ window#waybar.hidden {
 }
 
 #wireplumber {
-  background-color: #f9e2af;
+  background-color: #ffd885;
   color: #1e1e2e;
 }
 
 #network {
   background-color: #94e2d5;
-  padding-right: 17px;
+  padding-right: 15px;
   color: #1e1e2e;
 }
 
@@ -130,7 +130,7 @@ window#waybar.hidden {
 }
 
 #custom-power {
-  background-color: #f2cdcd;
+  background-color: #ff6a6a;
   color: #1e1e2e;
 }
 
