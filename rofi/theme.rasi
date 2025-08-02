@@ -1,0 +1,94 @@
+/* =================================================================
+ * Rofi Theme: Pastel Blue (with Transparency)
+ * ================================================================= */
+
+* {
+    /* ## Цветовая палитра ## */
+    /* ARGB = Alpha (прозрачность) + Red + Green + Blue */
+    /* E6 = ~90% непрозрачности. Можете поменять на CC (~80%) или D9 (~85%) для большей прозрачности */
+
+    bg:                #2C3E50;
+    bg-transparent:    #001524af; /* <--- Здесь настраивается прозрачность. Красный компонент был изменен на синий (00) */
+    fg:                #E0E7FF;
+    selected:          #006db1ff;
+    border-color:      #27a3f5ff;
+
+    /* ## Настройки шрифта ## */
+    /* Замените "JetBrainsMono Nerd Font" на ваш любимый шрифт */
+    font: "Arial Nerd Font Bold 14";
+
+    /* Отключаем некоторые стандартные цвета, чтобы использовать наши */
+    background-color: transparent;
+    text-color:        @fg;
+}
+
+/* ## Основное окно ## */
+window {
+    background-color: @bg-transparent;
+    border:            2px;
+    border-color:      @border-color;
+    border-radius:     12px;
+    padding:           16px;
+    height:            40%;
+    width:             40%; /* Ширина окна изменена с 50% на 30% для уменьшения размера */
+}
+
+/* ## Контейнер для списка и поля ввода ## */
+mainbox {
+    border:  0;
+    padding: 0;
+}
+
+/* ## Поле ввода текста ## */
+inputbar {
+    spacing:    12px;
+    padding:    8px 12px;
+    margin:     0 0 16px 0; /* Отступ снизу */
+    children:   [ entry ];
+
+    background-color: @selected;
+    border-radius:    8px;
+    text-color:        @fg;
+}
+
+prompt {
+    enabled:           true;
+    background-color:  inherit;
+    text-color:        inherit;
+}
+
+entry {
+    background-color: inherit;
+    text-color:        inherit;
+    placeholder-color: @fg;
+    placeholder:       "Поиск...";
+}
+
+/* ## Список элементов ## */
+listview {
+    fixed-height: false;
+    dynamic:       true;
+    border:        0;
+    padding:       0px;
+    spacing:       0px; /* Расстояние между элементами */
+}
+
+/* ## Элементы списка ## */
+element {
+    border:        0;
+    padding:       8px 6px;
+    border-radius: 8px;
+}
+
+
+element-text {
+    background-color: inherit;
+    text-color:        inherit;
+    vertical-align:    0.5;
+}
+
+/* ## Выбранный элемент ## */
+element selected {
+    background-color: @selected;
+    text-color:        @fg;
+}

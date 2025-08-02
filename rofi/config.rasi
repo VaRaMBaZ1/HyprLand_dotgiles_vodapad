@@ -1,0 +1,6 @@
+configuration {
+    // Показывать изображения (иконки) в списке (при использовании drun)
+    show-icons: true;
+    icon-size: 32;
+    
+}
