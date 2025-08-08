@@ -297,3 +297,50 @@ Fontconfig warning: using without calling FcInit()
 
 (wofi:1170026): Gtk-CRITICAL **: 02:30:34.212: gtk_widget_set_size_request: assertion 'height >= -1' failed
 Gdk-Message: 02:30:55.406: Error reading events from display: Соединение разорвано другой стороной
+[2025-08-06 15:54:50.357] [info] Using configuration file /home/vodapad/.config/waybar/config.jsonc
+[2025-08-06 15:54:50.358] [info] Unable to receive desktop appearance: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Settings” on object at path /org/freedesktop/portal/desktop
+[2025-08-06 15:54:50.358] [info] Using CSS file /home/vodapad/.config/waybar/style.css
+[2025-08-06 15:54:50.361] [info] Hyprland IPC starting
+[2025-08-06 15:54:50.361] [info] Loading persistent workspaces from Hyprland workspace rules
+sh: line 1: /home/vodapad/.config/waybar/scripts/date/date.sh: Permission denied
+sh: line 1: /home/vodapad/.config/waybar/scripts/right/keyboard.sh: Permission denied
+[2025-08-06 15:54:50.366] [error] kblayout stopped unexpectedly, is it endless?
+[2025-08-06 15:54:50.366] [warning] No batteries.
+Fontconfig warning: using without calling FcInit()
+[2025-08-06 15:54:50.380] [warning] Requested height: 34 is less than the minimum height: 42 required by the modules
+[2025-08-06 15:54:50.380] [info] Bar configured (width: 1920, height: 42) for output: DP-1
+
+** (waybar:2371): WARNING **: 15:54:50.381: Status Notifier Item with bus name ':1.30' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+sh: line 1: /home/vodapad/.config/waybar/scripts/powermenu/type-2/powermenu.sh: Permission denied
+sh: line 1: /home/vodapad/.config/waybar/scripts/date/date.sh: Permission denied
+[2025-08-06 15:56:03.879] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2025-08-06 15:56:03.881] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-08-06 15:56:05.821] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2025-08-06 15:56:05.823] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-08-06 15:56:08.612] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2025-08-06 15:56:08.613] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-08-06 15:56:44.260] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2025-08-06 15:56:44.264] [info] Loading persistent workspaces from Hyprland workspace rules
+sh: line 1: /home/vodapad/.config/waybar/scripts/date/date.sh: Permission denied
+sh: line 1: /home/vodapad/.config/waybar/scripts/date/date.sh: Permission denied
+[2025-08-06 15:58:32.298] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2025-08-06 15:58:32.302] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-08-06 15:58:39.135] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2025-08-06 15:58:39.139] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-08-06 15:58:42.674] [info] Hyprland config reloaded, reinitializing hyprland/workspaces module...
+[2025-08-06 15:58:42.677] [info] Loading persistent workspaces from Hyprland workspace rules
+sh: line 1: /home/vodapad/.config/waybar/scripts/date/date.sh: Permission denied
+sh: line 1: /home/vodapad/.config/waybar/scripts/date/date.sh: Permission denied
+sh: line 1: /home/vodapad/.config/waybar/scripts/date/date.sh: Permission denied
+sh: line 1: /home/vodapad/.config/waybar/scripts/date/date.sh: Permission denied
+sh: line 1: /home/vodapad/.config/waybar/scripts/date/date.sh: Permission denied
+sh: line 1: /home/vodapad/.config/waybar/scripts/date/date.sh: Permission denied
+sh: line 1: /home/vodapad/.config/waybar/scripts/date/date.sh: Permission denied
+sh: line 1: /home/vodapad/.config/waybar/scripts/date/date.sh: Permission denied
+sh: line 1: /home/vodapad/.config/waybar/scripts/date/date.sh: Permission denied
+sh: line 1: /home/vodapad/.config/waybar/scripts/date/date.sh: Permission denied
+sh: line 1: /home/vodapad/.config/waybar/scripts/date/date.sh: Permission denied
+sh: line 1: /home/vodapad/.config/waybar/scripts/date/date.sh: Permission denied
+sh: line 1: /home/vodapad/.config/waybar/scripts/date/date.sh: Permission denied
+sh: line 1: /home/vodapad/.config/waybar/scripts/date/date.sh: Permission denied
+Gdk-Message: 16:12:36.557: Error reading events from display: Broken pipe

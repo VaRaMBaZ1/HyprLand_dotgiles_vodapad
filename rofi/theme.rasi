@@ -8,14 +8,14 @@
     /* E6 = ~90% непрозрачности. Можете поменять на CC (~80%) или D9 (~85%) для большей прозрачности */
 
     bg:                #2C3E50;
-    bg-transparent:    #001524af; /* <--- Здесь настраивается прозрачность. Красный компонент был изменен на синий (00) */
+    bg-transparent:    #1a1b26; /* <--- Здесь настраивается прозрачность. Красный компонент был изменен на синий (00) */
     fg:                #E0E7FF;
-    selected:          #006db1ff;
-    border-color:      #27a3f5ff;
+    selected:          #c0caf5;
+    border-color:      #c0caf5;
 
     /* ## Настройки шрифта ## */
-    /* Замените "JetBrainsMono Nerd Font" на ваш любимый шрифт */
-    font: "Arial Nerd Font Bold 14";
+    /* Замените "Jetbrains Mono" на ваш любимый шрифт */
+    font: "Jetbrains Mono Bold 12";
 
     /* Отключаем некоторые стандартные цвета, чтобы использовать наши */
     background-color: transparent;
@@ -25,9 +25,9 @@
 /* ## Основное окно ## */
 window {
     background-color: @bg-transparent;
-    border:            2px;
+    border:            1px; /* Убрана рамка, чтобы Hyprland мог управлять обводкой */
     border-color:      @border-color;
-    border-radius:     12px;
+    border-radius:     0px; /* Убраны закругления, чтобы Hyprland мог управлять обводкой */
     padding:           16px;
     height:            40%;
     width:             40%; /* Ширина окна изменена с 50% на 30% для уменьшения размера */
@@ -46,8 +46,8 @@ inputbar {
     margin:     0 0 16px 0; /* Отступ снизу */
     children:   [ entry ];
 
-    background-color: @selected;
-    border-radius:    8px;
+    background-color: transparent; /* Полностью прозрачный фон */
+    border-radius:    0px; /* Убраны закругления */
     text-color:        @fg;
 }
 
@@ -67,17 +67,17 @@ entry {
 /* ## Список элементов ## */
 listview {
     fixed-height: false;
-    dynamic:       true;
-    border:        0;
-    padding:       0px;
-    spacing:       0px; /* Расстояние между элементами */
+    dynamic:         true;
+    border:          0;
+    padding:         0px;
+    spacing:         0px; /* Расстояние между элементами */
 }
 
 /* ## Элементы списка ## */
 element {
-    border:        0;
-    padding:       8px 6px;
-    border-radius: 8px;
+    border:          0;
+    padding:         4px 0px;
+    border-radius: 0px; /* Убраны закругления */
 }
 
 
